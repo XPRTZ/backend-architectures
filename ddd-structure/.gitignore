@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor folders
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Test coverage output
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# TypeScript cache
+*.tsbuildinfo

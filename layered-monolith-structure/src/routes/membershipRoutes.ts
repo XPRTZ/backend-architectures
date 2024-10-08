@@ -1,0 +1,1 @@
+// Membership endpoint definitions
